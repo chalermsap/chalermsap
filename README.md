@@ -3,14 +3,14 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-
 <div id="badges">
-  <a href="(https://www.linkedin.com/in/chalermsap-ritthaisong-6553aa2a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)">
+  <a href="https://www.linkedin.com/in/chalermsap-ritthaisong-6553aa2a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href=(https://www.facebook.com/mir.a.cle.506796?locale=th_TH)">
-    <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook Badge"/>
+  <a href="https://www.facebook.com/mir.a.cle.506796?locale=th_TH">
+    <img src="https://img.shields.io/badge/facebook-red?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook Badge"/>
   </a>
+
 </div>
 
 
